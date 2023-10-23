@@ -1,11 +1,7 @@
 {
-    "itemGroup.bitsandchisels.bitsandchisels": "Chupapi",
-    "item.bitsandchisels.bit_item": "Munana",
-    "item.bitsandchisels.diamond_chisel": "Koleso",
-    "item.bitsandchisels.iron_chisel": "Dubina",
-    "item.bitsandchisels.smart_chisel": "Sidr",
-    "item.bitsandchisels.wrench": "Uga Buga",
-    "item.bitsandchisels.blueprint.unwritten": "Chidori",
-    "item.bitsandchisels.blueprint": "Molotok",
-    "block.bitsandchisels.bits_block": "Gigalol"
+    "itemGroup.test.test_group": "Group",
+    "item.test.test_item1": "Item 1",
+    "item.test.test_item2": "Item 2",
+    "item.test.test_item3": "Item 3",
+    "block.test.test_block": "Block"
 }
