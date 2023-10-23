@@ -7,17 +7,17 @@ Made it for myself after having fun time translaiting some furniture mode to Rus
 
 # How to use
   
-  -Since it's not converted to any universal executable format you need to have Python interpeter installed on your device.
+  - Since it's not converted to any universal executable format you need to have Python interpeter installed on your device.
 
 ### PC: Python itself, any IDE that supports Python
 
 ### Android: PyDroid3
   
-  -Extract the lang file from the mod archive\folder.
+  - Extract the lang file from the mod archive\folder.
   
-  -Place the file to the same folder as script in (replace the test file).
+  - Place the file to the same folder as script in (replace the test file).
 (For files that have different name from en_us.json you have to replace file name in the script manually).
   
-  -Start script (it will ask u what to do with each name-component of the file).
+  - Start script (it will ask u what to do with each name-component of the file).
   
-  -After u done, it will rewrite the file according to your changes.
+  - After u done, it will rewrite the file according to your changes.
