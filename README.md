@@ -3,6 +3,7 @@ Small Python script that designed to help with manual translation of Minecraft m
 
 # Purpose
 To make life easyer when it comes to translaition of a minecraft mod. In situations when you have alot of items\titles in the .json file it's really hard to keep track of lines and u have to double-check if u miss something or not, along with that u spend time to navigate the file using mouse or other device.
+
 Made it for myself after having fun time translaiting some furniture mode to Russian. Also that's my first useful project during my Python learning jorney.
 
 # How to use
