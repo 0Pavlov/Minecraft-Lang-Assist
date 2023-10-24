@@ -10,7 +10,7 @@ Made it for myself after having fun time translaiting some furniture mode to Rus
   
   - Since it's not converted to any universal executable format you need to have Python interpeter installed on your device.
 
-### PC: Python itself, any IDE that supports Python
+--  PC: Python itself or any IDE that supports Python
 
 ### Android: PyDroid3
   
