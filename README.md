@@ -9,10 +9,8 @@ Made it for myself after having fun time translaiting some furniture mode to Rus
 ## How to use
   
   - Since it's not converted to any universal executable format you need to have Python interpeter installed on your device.
-
-<sub>PC: Python itself or any IDE that supports Python 
-
-<sub>Android: PyDroid3
+  <sub>PC: Python itself or any IDE that supports Python 
+  <sub>Android: PyDroid3
 
   - Extract the lang file from the mod archive\folder.
   
